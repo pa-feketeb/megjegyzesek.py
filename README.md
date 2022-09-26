@@ -1,1 +1,1 @@
-# megjegyzesek.py
+# megjegyzesek
